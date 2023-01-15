@@ -1,6 +1,6 @@
 # Online Taxi Booking System (OTBS)
 
-# A web application for Online Tax Booking Angular as frontend and Web API using ADO.NET LING & EntityFramework
+# A web application for Online Tax Booking
 
 * This project allows customers to book taxis for their daily transport. The project is designed and built across 3 logical tiers. 
 
@@ -46,7 +46,3 @@
 
 ## Contributors
 
-
-<p align="center">
-  <img style="width:25%;" src="https://github.com/PraveenKKS/Online-Taxi-Booking-System/blob/main/images/b%20(2).png" />
-</p>
