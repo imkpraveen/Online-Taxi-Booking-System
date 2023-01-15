@@ -46,3 +46,14 @@
 
 ## Contributors
 
+## Use Case-Diagram
+![Slide4](https://user-images.githubusercontent.com/38833452/212530209-3eb21557-2182-47c6-b517-19456a057593.JPG)
+
+## Class Digram
+![Slide5](https://user-images.githubusercontent.com/38833452/212530250-42296476-709d-4875-a4df-3e3cf9f29f0d.JPG)
+
+## System Architecture Digram
+![Slide9](https://user-images.githubusercontent.com/38833452/212530345-00118363-1048-4639-8418-e8e2a9c9db35.JPG)
+
+## Admin Page
+![Slide12](https://user-images.githubusercontent.com/38833452/212530387-243e5e23-59d9-414a-a53e-0335a2a6b5ab.JPG)
